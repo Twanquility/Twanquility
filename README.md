@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I need to understand how github works, as it seems like everything opensource happens through github. Exciting.
+
 <!--
 **Twanquility/Twanquility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
